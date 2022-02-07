@@ -1,2 +1,2 @@
 # nodejs-restful-api
-Node.js Restful API Tutorial
+Node.js Restful API
